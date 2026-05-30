@@ -1,6 +1,6 @@
 # Maternia — Landing Page & Triagem MVP
 
-> **Slogan:** *Porque o manual do bebê é ter com quem contar.*
+> **Slogan:** *O manual do bebê é ter com quem contar.*
 
 Esta é a plataforma oficial do **Maternia**, desenvolvida para conectar mães e pais de primeira viagem a profissionais especializados e humanizados de saúde e apoio materno-infantil. 
 
