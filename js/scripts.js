@@ -495,7 +495,7 @@
       crm: "CRM/SP 123456",
       descricao: "Especialista em desenvolvimento infantil e primeiros cuidados com recém-nascidos. Atende casos de febre, cólicas, choro excessivo e saúde geral do bebê.",
       problemas: ["febre", "choro", "colica", "saúde geral"],
-      avatar: "pro-pediatra-wfWht7IY.jpg",
+      avatar: "assets/avatar-pediatra.png",
       avaliacao: "4.9",
       atendimentos: "1.200+"
     },
@@ -506,7 +506,7 @@
       registro: "IBCLC #45678",
       descricao: "Consultora certificada internacionalmente. Especialista em dor ao amamentar, dificuldades de pega e baixa produção de leite.",
       problemas: ["dor ao amamentar", "pega incorreta", "baixa produção de leite"],
-      avatar: null,
+      avatar: "assets/avatar-amamentacao.png",
       avaliacao: "5.0",
       atendimentos: "850+"
     },
@@ -516,7 +516,7 @@
       especialidade: "Consultora de Sono Infantil",
       descricao: "Especialista em rotinas de sono para bebês de 0 a 5 anos. Ajuda famílias a estabelecerem rotinas saudáveis e a reduzir despertares noturnos.",
       problemas: ["rotina de sono", "despertares frequentes", "dificuldades para dormir"],
-      avatar: "pro-fisio-B5DRmI3E.jpg", // Using local asset
+      avatar: "assets/avatar-sono.png",
       avaliacao: "4.8",
       atendimentos: "620+"
     },
@@ -527,7 +527,7 @@
       crp: "CRP/RJ 98765",
       descricao: "Especialista em saúde mental no período perinatal. Atende questões de ansiedade, exaustão, depressão pós-parto e adaptação à maternidade/paternidade.",
       problemas: ["ansiedade", "exaustão", "puerpério", "depressão pós-parto"],
-      avatar: "pro-consultora-CJWwyPrz.jpg",
+      avatar: "assets/avatar-psicologa.png",
       avaliacao: "4.9",
       atendimentos: "430+"
     }
